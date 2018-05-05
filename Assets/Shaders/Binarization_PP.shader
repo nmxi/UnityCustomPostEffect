@@ -20,7 +20,7 @@
 				float gray = c.r * 0.3 + c.g * 0.6 + c.b * 0.1;
 
 				if( gray > _Threshold ){
-					discard;
+					return 0;
 				} 
 
 				return 1;
