@@ -22,3 +22,8 @@ Unityの自作ポストエフェクト
 
 **DistanceFieldEffect**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceField.PNG" width="50%">
+
+## リンク
+
+ルール画像(for you 様)\
+URL : http://4you.bz/
