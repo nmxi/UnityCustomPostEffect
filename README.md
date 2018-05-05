@@ -19,3 +19,6 @@ Unityの自作ポストエフェクト
 **セピア**\
 コントラスト調整機能付き\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.PNG" width="50%">
+
+**DistanceFieldEffect**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceField.PNG" width="50%">
