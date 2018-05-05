@@ -18,4 +18,4 @@ Unityの自作ポストエフェクト
 
 **セピア**\
 コントラスト調整機能\
-<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.gif" width="50%">
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.PNG" width="50%">
