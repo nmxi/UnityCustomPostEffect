@@ -1,6 +1,6 @@
-﻿Shader "CustomPostProcess/BlockNoise_PP" {
+﻿Shader "CustomPostProcess/RandomColorAmeba_PP" {
 	Properties {
-		_NoiseStrength("NoiseStrength", Range(1, 50)) = 1
+		_Strength("Strength", Range(0.01, 2000)) = 1
 		_MainTex("MainTex", 2D) = ""{}
 	}
 	SubShader {
@@ -14,7 +14,7 @@
 
 			sampler2D _MainTex;
 
-			half _NoiseStrength;
+			half _Strength;
 
 			float random (fixed2 p) {
             	return frac(sin(dot(p, fixed2(12.9898,78.233))) * 43758.5453);
@@ -26,12 +26,10 @@
         	}
 
 			fixed4 Frag(v2f_img i ) : COLOR {
-				//fixed4 c = noise( i.uv * _NoiseStrength);
+				float3 c = tex2D(_MainTex, i.uv);
+				float3 st = frac(c * _Strength);
+				return float4(st.r, st.g, st.b, 1);
 
-				float2 st = frac(i.uv * _NoiseStrength);
-				return float4(st.x, st.y, 0, 1);
-
-				//return c;
 			}
 			ENDCG
 		}
