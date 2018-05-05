@@ -27,10 +27,11 @@
           <e p="Binarization_PP.shader" t="Include" />
           <e p="CompoundEyes_PP.shader" t="Include" />
           <e p="def_PP.shader" t="Include" />
-          <e p="Depth_PP.shader" t="Include" />
           <e p="DistanceField_PP.shader" t="Include" />
+          <e p="Distortion_PP.shader" t="Include" />
           <e p="Mono_PP.shader" t="Include" />
           <e p="Mosaic_PP.shader" t="Include" />
+          <e p="Noise_PP.shader" t="Include" />
           <e p="RandomColorAmeba_PP.shader" t="Include" />
           <e p="Sepia_PP.shader" t="Include" />
           <e p="Transition_PP.shader" t="Include" />
