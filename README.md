@@ -6,21 +6,27 @@ Unity Custom PostEffect
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/normal.PNG" width="50%">
 
 
-**モノクロ**\
+**Monochrome**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/mono.PNG" width="50%">
 
-**２値化**\
+**Binarization**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/bin.PNG" width="50%">
 
-**セピア**\
+**Sepia**\
 コントラスト調整機能付き\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.PNG" width="50%">
 
-**ディスタンスフィールド**\
+**Distance Field**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceField.PNG" width="50%">
 
-**トランジション**\
+**Trandition**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/transition.gif" width="50%">
+
+**Random Color Ameba**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/RandomColorAmeba.png" width="50%">
+
+**Compound Eyes**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/CompoundEyes.png" width="50%">
 
 ## リンク
 
