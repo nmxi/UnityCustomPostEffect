@@ -1,6 +1,6 @@
 ﻿Shader "CustomPostProcess/CompoundEyes_PP" {
 	Properties {
-		_Strength("Strength", Range(0, 1)) = 0
+		_Strength("Strength", Range(1, 10)) = 0
 		_MainTex("MainTex", 2D) = ""{}
 	}
 	SubShader {
@@ -17,10 +17,10 @@
 			half _Strength;
 
 			fixed4 Frag(v2f_img i ) : COLOR {
-				fixed4 c = tex2D(_MainTex, i.uv);
-				float2 st = frac(i.uv * 10);
+				float2 st = frac(i.uv * _Strength);
+				fixed4 c = tex2D(_MainTex, st.xy);
 
-				return float4(st.x, st.y, 1, 1);
+				return float4(c.r, c.g, c.b, 1);
 			}
 			ENDCG
 		}
