@@ -23,6 +23,9 @@ Unityの自作ポストエフェクト
 **DistanceFieldEffect**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceField.PNG" width="50%">
 
+**トランジション**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/transition.gif" width="50%">
+
 ## リンク
 
 ルール画像(for you 様)\
