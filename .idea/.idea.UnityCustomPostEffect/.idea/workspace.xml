@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c8d44b-8e09-4638-b9ca-01b9f0d650ac" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCustomPostEffect/.idea/contentModel.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCustomPostEffect/.idea/indexLayout.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCustomPostEffect/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCustomPostEffect/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.UnityCustomPostEffect/riderModule.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/CompoundEyes.mat" afterPath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/CompoundEyes.mat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/Mosaic.mat" afterPath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/Mosaic.mat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/RandomColorAmeba.mat" afterPath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/RandomColorAmeba.mat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/Sepia.mat" afterPath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/Sepia.mat" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Scenes/Main.unity" afterPath="$PROJECT_DIR$/Assets/Scenes/Main.unity" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/Distortion.mat" afterPath="$PROJECT_DIR$/Assets/Materials/CustomPostProcess/Distortion.mat" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -43,7 +34,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Shaders/Depth_PP.shader" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Depth_CustomPostProcess.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -124,12 +114,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1525536086253</updated>
-      <workItem from="1525536091258" duration="717000" />
+      <workItem from="1525536091258" duration="1023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="717000" />
+    <option name="totallyTimeSpent" value="1023000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -181,13 +171,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1525536621021" expanded="true" signature="1036:1039" ph="{...}" />
-            <marker date="1525536621021" expanded="true" signature="50:87" ph="{...}" />
-            <marker date="1525536621021" expanded="true" signature="1036:1037" ph="{...}" />
-            <marker date="1525536621021" expanded="true" signature="515:534" ph="{...}" />
-            <marker date="1525536621021" expanded="true" signature="515:525" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
