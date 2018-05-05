@@ -1,10 +1,6 @@
 Unity Custom PostEffect
 ====
 
-## Description
-
-Unityの自作ポストエフェクト
-
 ## Demo
 **ポストエフェクト適応前**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/normal.PNG" width="50%">
