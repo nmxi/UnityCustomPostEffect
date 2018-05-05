@@ -34,4 +34,7 @@ Unity Custom PostEffect
 URL : http://4you.bz/
 
 参考記事
-[UnityのImage Effectでモザイクをかける](https://qiita.com/aa_debdeb/items/f2f6c56bcbe3f3ae4a36)
+
+[おもちゃラボ](http://nn-hokuson.hatenablog.com/)\
+[UnityのImage Effectでモザイクをかける](https://qiita.com/aa_debdeb/items/f2f6c56bcbe3f3ae4a36)\
+[標準のシェーダーを改造しよう！　DecalShaderを２枚から３枚にしてみよう](https://qiita.com/enpel/items/e88e8d97490ec618c630)
