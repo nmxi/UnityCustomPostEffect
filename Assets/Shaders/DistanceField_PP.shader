@@ -20,7 +20,7 @@
 
 			    float d = distance(float2(0.5, 0.5), i.uv);
 			    if(d > _Distance){
-			    	discard;
+			    	return 0;
 			    }
 
 				return c;
