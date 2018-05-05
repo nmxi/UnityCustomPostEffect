@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="EDITOR_FileOpenInApp.cs" t="Include" />
+          <e p="EDITOR_HierarchyComponentIcons.cs" t="Include" />
+          <e p="EDITOR_HierarchyTogles.cs" t="Include" />
+          <e p="EDITOR_MenubarAddFunction.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="CustomPostProcess.cs" t="Include" />
+          <e p="Depth_CustomPostProcess.cs" t="Include" />
+        </e>
+        <e p="Shaders" t="Include">
+          <e p="Binarization_PP.shader" t="Include" />
+          <e p="CompoundEyes_PP.shader" t="Include" />
+          <e p="def_PP.shader" t="Include" />
+          <e p="Depth_PP.shader" t="Include" />
+          <e p="DistanceField_PP.shader" t="Include" />
+          <e p="Mono_PP.shader" t="Include" />
+          <e p="Mosaic_PP.shader" t="Include" />
+          <e p="RandomColorAmeba_PP.shader" t="Include" />
+          <e p="Sepia_PP.shader" t="Include" />
+          <e p="Transition_PP.shader" t="Include" />
+        </e>
+        <e p="SkySerie Freebie" t="Include">
+          <e p="Hdri setup.txt" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="UnityCustomPostEffect.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.2/resharper-host/local/Transient/ReSharperHost/v10/SolutionCaches/_UnityCustomPostEffect.1147128813.00" t="ExcludeRecursive" />
+  </component>
+</project>
