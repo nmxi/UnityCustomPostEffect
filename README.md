@@ -17,5 +17,5 @@ Unityの自作ポストエフェクト
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/bin.PNG" width="50%">
 
 **セピア**\
-コントラスト調整機能\
+コントラスト調整機能付き\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.PNG" width="50%">
