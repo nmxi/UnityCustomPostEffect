@@ -36,14 +36,23 @@
 				fixed2 f = floor(i.uv * _BlockNum);
                 fixed size = 1.0 / _BlockNum;
 
-                fixed2 lb = f / _BlockNum; // left bottom
-                fixed2 lt = lb + fixed2(0.0, size); // left top
-                fixed2 rb = lb + fixed2(size, 0.0); //right bottom
-                fixed2 rt = lb + fixed2(size, size); // right top
+                fixed2 v00 = f / _BlockNum; // left bottom
+                fixed2 v01 = v00 + fixed2(0.0, size); // left top
+                fixed2 v10 = v00 + fixed2(size, 0.0); //right bottom
+                fixed2 v11 = v00 + fixed2(size, size); // right top
 
-                return (tex2D(_MainTex, lb) + tex2D(_MainTex, lt) + tex2D(_MainTex, rb) + tex2D(_MainTex, rt)) / 4.0;
+				if(random(i.uv * _Time) < _Strength){
+					half r = random(i.uv);
+					c = _NoiseColor;
+					return c;
+				}
 
-				//return c;
+                c = (tex2D(_MainTex, v00) + 
+                	tex2D(_MainTex, v01) + 
+                	tex2D(_MainTex, v10) + 
+                	tex2D(_MainTex, v11)) / 4.0;
+
+				return c;
 			}
 			ENDCG
 		}
