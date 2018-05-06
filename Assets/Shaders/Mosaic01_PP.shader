@@ -1,6 +1,6 @@
 ﻿Shader "CustomPostProcess/Mosaic01_PP" {
 	Properties {
-		_Strength("Strength", Range(1, 300)) = 0
+		_Strength("Strength", Range(1, 300)) = 1
 		_MainTex("MainTex", 2D) = ""{}
 	}
 	SubShader {
