@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: CustomNoise01
-  m_Shader: {fileID: 4800000, guid: eeb0ed8cf2839419f86e66da06ff3a81, type: 3}
+  m_Name: RGBDistortion
+  m_Shader: {fileID: 4800000, guid: c1e9783b827ea4ba08d95f05d7f57a53, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -55,8 +55,8 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - _BlockNum: 96
     - _BumpScale: 1
+    - _ColorDistortion: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -70,10 +70,10 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Strength: 0.238
+    - _Strength: 0.282
     - _UVSec: 0
     - _ZWrite: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _ColorDistortion: {r: 0.99, g: 0.98, b: 0.97, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _NoiseColor: {r: 0.20754719, g: 0.20754719, b: 0.20754719, a: 1}

@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: NoiseDisolve
+  m_Name: Noise
   m_Shader: {fileID: 4800000, guid: 948a4260cf02f4e3c8504fe0a1426f85, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
