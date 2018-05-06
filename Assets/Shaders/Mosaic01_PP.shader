@@ -1,4 +1,4 @@
-﻿Shader "CustomPostProcess/Mosaic_PP" {
+﻿Shader "CustomPostProcess/Mosaic01_PP" {
 	Properties {
 		_Strength("Strength", Range(1, 300)) = 0
 		_MainTex("MainTex", 2D) = ""{}
@@ -15,12 +15,6 @@
 			sampler2D _MainTex;
 
 			half _Strength;
-
-			float box(float2 st, float size){
-			    size = 0.5 + size * 0.5;
-			    st = step(st, size) * step(1.0 - st, size);
-			    return st.x * st.y;
-			}
 
 			fixed4 Frag(v2f_img i ) : COLOR {
 				fixed2 f = floor(i.uv * _Strength);
