@@ -28,6 +28,21 @@ Unity Custom PostEffect
 **Compound Eyes**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/CompoundEyes.png" width="50%">
 
+**Mosaic**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/mosaic.PNG" width="50%">
+
+**Noise**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/noise.PNG" width="50%">
+
+**Custom Noise 01**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/customNoise01.PNG" width="50%">
+
+**RGB Distortion**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/RGBDistortion.gif" width="50%">
+
+**Distortion 01**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/Distortion01.PNG" width="50%">
+
 ## リンク
 
 ルール画像(for you 様)\
