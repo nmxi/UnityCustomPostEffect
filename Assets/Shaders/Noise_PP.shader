@@ -1,4 +1,4 @@
-﻿Shader "CustomPostProcess/NoiseDisolve_PP" {
+﻿Shader "CustomPostProcess/Noise_PP" {
 	Properties {
 		_Strength("Strength", Range(0, 1)) = 0
 		_NoiseColor("NoiseColor", Color) = (1, 1, 1, 1)
