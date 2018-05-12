@@ -14,7 +14,6 @@ Unity 2018.1.0b13
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/bin.PNG" width="50%">
 
 **Sepia**\
-コントラスト調整機能付き\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.PNG" width="50%">
 
 **Distance Field**\
@@ -57,6 +56,7 @@ URL : http://4you.bz/
 
 ## 参考記事
 
+[The Book of Shaders](https://thebookofshaders.com/)\
 [おもちゃラボ](http://nn-hokuson.hatenablog.com/)\
 [UnityのImage Effectでモザイクをかける](https://qiita.com/aa_debdeb/items/f2f6c56bcbe3f3ae4a36)\
 [標準のシェーダーを改造しよう！　DecalShaderを２枚から３枚にしてみよう](https://qiita.com/enpel/items/e88e8d97490ec618c630)
