@@ -44,6 +44,12 @@ Unity 2018.1.0b13
 **Distortion 01**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/Distortion01.PNG" width="50%">
 
+**OppositeColor**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/OppositeColor.PNG" width="50%">
+
+**DistanceMosaic**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceMosaic.PNG" width="50%">
+
 ## リンク
 
 ルール画像(for you 様)\
