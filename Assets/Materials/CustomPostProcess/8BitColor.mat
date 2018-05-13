@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: DistanceField
-  m_Shader: {fileID: 4800000, guid: 4e64a85a59983a7488744a94d3c22430, type: 3}
+  m_Name: 8BitColor
+  m_Shader: {fileID: 46, guid: 0000000000000000f000000000000000, type: 0}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -58,7 +58,6 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Distance: 0.772
     - _DstBlend: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.5
