@@ -24,6 +24,9 @@ Unity 2018.1.0b13
 **Trandition**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/transition.gif" width="50%">
 
+**Distance Field**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceField.gif" width="50%">
+
 **Mosaic**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/mosaic.PNG" width="50%">
 
@@ -47,9 +50,6 @@ Unity 2018.1.0b13
 
 **Sepia**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/sepia.PNG" width="50%">
-
-**Distance Field**\
-<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceField.PNG" width="50%">
 
 ## リンク
 
