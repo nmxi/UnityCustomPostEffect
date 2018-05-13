@@ -49,6 +49,9 @@ Unity 2018.1.0b13
 **DistanceMosaic**\
 <img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/DistanceMosaic.PNG" width="50%">
 
+**CellularNoise**\
+<img src="https://github.com/nmxi/UnityCustomPostEffect/blob/media/ReadmeMedia/CellularNoise.gif" width="50%">
+
 ## リンク
 
 ルール画像(for you 様)\
