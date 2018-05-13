@@ -6,9 +6,9 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Transition
-  m_Shader: {fileID: 4800000, guid: eab2993b6feed4840a3c80c6565dfbe3, type: 3}
-  m_ShaderKeywords: 
+  m_Name: CellularNoise
+  m_Shader: {fileID: 4800000, guid: 8b9422155f6bc204f9dc6d65728ba02b, type: 3}
+  m_ShaderKeywords: _ISSHOWPOINT_ON _ISUSECELLULARNOISE_ON
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
@@ -54,29 +54,43 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
-    - _RuleTex:
-        m_Texture: {fileID: 2800000, guid: 58a51444f41d31741870d173c84571d5, type: 3}
+    - _name:
+        m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
+    - _AnimSpeed: 0.6
     - _BumpScale: 1
+    - _CellularNoiseScale: 0.5
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
-    - _Distance: 0
     - _DstBlend: 0
+    - _Fvalue: 1.5
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
+    - _IsShowGrid: 0
+    - _IsShowPoint: 1
+    - _IsUseCellularNoise: 1
+    - _Ivalue: 5
+    - _MaxDist: 2.94
     - _Metallic: 0
     - _Mode: 0
+    - _MosaicSizeParam: 1.27
+    - _MosaicStrength: 30
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _Param: 100
+    - _Scale: 1.32
+    - _SizeAdjust: 2
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-    - _Transition: 0
+    - _Strength: 1
     - _UVSec: 0
+    - _Value: 1
     - _ZWrite: 1
+    - _a: 0
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
