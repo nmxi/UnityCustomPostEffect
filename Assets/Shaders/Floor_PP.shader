@@ -1,6 +1,6 @@
-﻿Shader "CustomPostProcess/8BitColor_PP" {
+﻿Shader "CustomPostProcess/Floor_PP" {
 	Properties {
-		_Strength("Strength", Range(0, 1)) = 0
+		_Strength("Strength", Range(1, 20)) = 10
 		_MainTex("MainTex", 2D) = ""{}
 	}
 	SubShader {
@@ -19,7 +19,9 @@
 			fixed4 Frag(v2f_img i ) : COLOR {
 				fixed4 c = tex2D(_MainTex, i.uv);
 
-				
+				c = c * _Strength;
+				c = floor(c);
+				c = c * _Strength;
 
 				return c;
 			}
